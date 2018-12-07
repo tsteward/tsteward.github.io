@@ -14,7 +14,8 @@ style:
 
 navigation:
   - index.md
-  - projects.html
+  - projects.md
+  - ethics.md
 
 comments:
 #  disqus: "disqus-contrast"
