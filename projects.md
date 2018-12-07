@@ -2,6 +2,6 @@
 title: "Projects"
 ---
 
-## [DiplomaCY](/projects/dimplomacy)
+## [DiplomaCY](/projects/diplomacy)
 
 ## CPR E 288 Web Control
