@@ -4,17 +4,6 @@ notitle: "true"
 ---
 
 <img align="right" src="Timothy.Steward.jpg" width="256px">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### My life
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
- - Dictumst
- - Vestibulum
- - Rhoncus
- - Pellentesque
- 
-Maecenas accumsan lacus vel facilisis volutpat est velit. Arcu bibendum at varius vel. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. 
-
-Ultrices dui sapien eget mi proin sed. Dignissim sodales ut eu sem.
+I am a student at Iowa State University pursing a degree in Computer Engineeing,
+graduating in Spring 2020. This site contains some examples of projects I have
+worked on during my time at Iowa State University.
