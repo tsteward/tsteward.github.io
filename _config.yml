@@ -15,7 +15,7 @@ style:
 navigation:
   - index.md
   - projects.md
-  - ethics.md
+  - reflections.md
 
 comments:
 #  disqus: "disqus-contrast"
