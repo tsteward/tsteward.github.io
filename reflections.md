@@ -8,13 +8,13 @@ Some essays I wrote for some classes at Iowa State.
 
 CPR E 494  
 October 18, 2018  
-[Download](GeneralRefelction.pdf)
+[Download](GeneralReflection.pdf)
 
 ## Cumulative Reflection
 
 CPR E 494  
 October 18, 2018  
-[Download](CumulativeRefelction.pdf)
+[Download](CumulativeReflection.pdf)
 
 ## Ethics in Engineering
 
