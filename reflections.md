@@ -4,17 +4,20 @@ title: "Reflections"
 
 Some essays I wrote for some classes at Iowa State.
 
-# General Refelction
+## General Reflection
+
 CPR E 494  
 October 18, 2018  
 [Download](General%20Refelction.pdf)
 
-# Cumulative Refelction
+## Cumulative Reflection
+
 CPR E 494  
 October 18, 2018  
 [Download](Cumulative%20Refelction.pdf)
 
-# Ethics in Engineering
+## Ethics in Engineering
+
 CPR E 394  
 December 7, 2018  
 [Download](Ethics.pdf)
