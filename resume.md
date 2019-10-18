@@ -1,5 +1,5 @@
 ---
-title: "Reflections"
+title: "Resume"
 ---
 
 [Download](TimothySteward.pdf)
