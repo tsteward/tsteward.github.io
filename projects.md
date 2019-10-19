@@ -18,4 +18,4 @@ A web interface to the robot created for CPR E 288
 ## [PhotoCenter](/projects/photocenter)
 
 A phone and web application I created with a team for the
-[HackISU](https://hackisu.org/) hackathon.
+[HackISU](https://hackisu.org/) hackathon
