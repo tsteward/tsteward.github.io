@@ -7,3 +7,5 @@ notitle: "true"
 I am a student at Iowa State University pursing a degree in Computer Engineeing,
 graduating in Spring 2020. This site contains some examples of projects I have
 worked on during my time at Iowa State University.
+
+I am looking for emploment in engineering after I graduate in May.
